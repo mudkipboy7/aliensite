@@ -1,0 +1,23 @@
+# Defines special players based on their usernames (CASE SENSITIVE)
+[USERNAMES]
+	Notch			= "notch"
+	DanTDM			= "diamondminecart"
+	kingbdogz		= "aether"
+	jeb_			= "jeb_"
+	C418			= "valuables"
+	Dinnerbone		= "dinnerbone"
+	Grumm			= "dinnerbone"
+	PinkSheepYT		= "pink"
+	
+# Defines special players based on their UUIDS (ALL SHOULD BE IN LOWER-CASE)
+[UUIDS]
+	a9886315-d13c-40ea-8ccd-e3cbb6c9978d = "mudkipboy7" # mudkipboy7
+	d6107df1-e192-4912-920c-6dac674b0040 = "brainbrain480" # Brainbrain
+	8fbac3fd-39e3-44c8-816a-37d8d12a2c81 = "hedgehogboy999" # hedgehogboy999
+	a6e4da12-d612-4fe6-a1de-9e81d716db68 = "rainbow" # Troglodyte480
+	c543122b-2ec9-483d-a681-80d8b1d2454e = "trans" # GiffanyCD
+	
+# Defines special players based on their cape (VALUE IS TEXTURE LOCATION ON textures.minecraft.net)
+[CAPES]
+	9e507afc56359978a3eb3e32367042b853cddd0995d17d0da995662913fb00f7 = "mojang" # mojang capes
+	5786fe99be377dfb6858859f926c4dbc995751e91cee373468c5fbf4865e7151 = "mojang"	# mojang capes
