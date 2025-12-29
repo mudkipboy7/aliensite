@@ -1,0 +1,1 @@
+This folder contains a bunch of images for external use.
