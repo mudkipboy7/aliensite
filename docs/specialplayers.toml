@@ -11,7 +11,7 @@
 	
 # Defines special players based on their UUIDS (ALL SHOULD BE IN LOWER-CASE)
 [UUIDS]
-	a9886315-d13c-40ea-8ccd-e3cbb6c9978d = "valuables" # mudkipboy7
+	a9886315-d13c-40ea-8ccd-e3cbb6c9978d = "mudkipboy7" # mudkipboy7
 	d6107df1-e192-4912-920c-6dac674b0040 = "brainbrain480" # Brainbrain
 	8fbac3fd-39e3-44c8-816a-37d8d12a2c81 = "hedgehogboy999" # hedgehogboy999
 	a6e4da12-d612-4fe6-a1de-9e81d716db68 = "rainbow" # Troglodyte480
