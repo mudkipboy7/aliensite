@@ -1,0 +1,8 @@
+/* Defines the body's style */
+body {
+	font-family: 'Minecraft';
+	background-color: #000000;
+	text-align: center;
+	background-image: url('assets/background.png');
+	background-size: cover;
+}

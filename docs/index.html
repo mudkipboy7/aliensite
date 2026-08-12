@@ -1,6 +1,31 @@
-<!--This page just redirects to the curseforge page-->
+<!--This file is the main page for the site-->
 <!DOCTYPE html>
 <html>
-	<!-- Redirects to the curseforge page-->
-	<meta http-equiv="refresh" content="0; url=https://www.curseforge.com/minecraft/mc-mods/alienmod">
+	<!--This section helps with setting style and stuff-->
+	<head>
+		<!--Sets the name of the website on the thing above it-->
+		<title>mudSite</title>
+		<link rel="icon" href="assets/alienmod.png">
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="typeface-minecraft/index.css">
+
+		<!--Imports the JS file-->
+		<script src="javascript.js"></script>
+	</head>
+	<body>
+		<audio autoplay loop>
+		  <source src="assets/wahwah_menu1.ogg" type="audio/ogg">
+		</audio>
+		
+		<img src="assets/logo.png">
+		<!--Runs the JS-->
+		<script>
+			// The title
+			header("Travel to a distant alien planet!", "60px", "purple");
+			ln();
+			header("Get it on:", "40px", "purple");
+			siteLink("CurseForge", "https://www.curseforge.com/minecraft/mc-mods/alienmod");
+			siteLink("Modrinth", "https://modrinth.com/mod/alienmod");
+		</script>
+	</body>
 </html>
